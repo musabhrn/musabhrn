@@ -13,6 +13,6 @@ I'm an aspiring Data Analyst with a passion of uncovering insights from data and
 - **Development Environments:** Jupyter Notebook, Google Colab
 - **Productivity Tools:** Microsoft Excel, Google Sheets
 
-### 👋🏻 Connect with Me
+### 🤝 Connect with Me
 - [Email](musaharon07@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/musabhrn/)
