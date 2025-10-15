@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Musa
----
 I'm an aspiring Data Analyst with a passion of uncovering insights from data and turning them into actionable solutions.
 
 ### 📚 Featured Projects
