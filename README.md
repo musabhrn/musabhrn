@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Musa
+---
+I'm an aspiring Data Analyst with a passion of uncovering insights from data and turning them into actionable solutions.
 
-<!--
-**musabhrn/musabhrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Featured Projects
+[Project #1](https://www.example.com) - Analyzing
+[Project #1](https://www.example.com) - 
+[More Projects → View My Full Portfolio](https://www.example.com) - 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+- **Programming Languages:** Python, SQL
+- **Data Analysis & Visualisation Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Visualisation Tools:** Tableau, Power BI
+- **Development Environments:** Jupyter Notebook, Google Colab
+- **Productivity Tools:** Microsoft Excel, Google Sheets
+
+
+### 👋🏻 Connect with Me
+- [Email](musaharon07@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/musabhrn/)
