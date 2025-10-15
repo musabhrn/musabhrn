@@ -14,5 +14,5 @@ I'm an aspiring Data Analyst with a passion of uncovering insights from data and
 - **Productivity Tools:** Microsoft Excel, Google Sheets
 
 ### 🤝 Connect with Me
-- [Email](musaharon07@gmail.com)
+- [Email](mailto:musaharon07@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/musabhrn/)
