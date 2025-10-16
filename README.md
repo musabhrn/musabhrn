@@ -2,8 +2,8 @@
 I'm an aspiring Data Analyst with a passion of uncovering insights from data and turning them into actionable solutions.
 
 ### 📚 Featured Projects
-- [Bike Sharing Demand Analysis](https://www.example.com) - Uncover trends and patterns in bike rental demand
-- [E-Commerce Product Analysis](https://www.example.com) - Analyzing product performance and user behavior from an online store
+- [Bike Sharing Usage Analysis](https://www.example.com) - Uncover trends and patterns in bike rental usage
+- [Online Electronics Retailer Analysis](https://www.example.com) - Analyzing product performance and customer behavior in an Online Electronics Retailer
 - **Check out more of my work on my [Portfolio](https://www.example.com)**  
 
 ### 🛠️ Tools
