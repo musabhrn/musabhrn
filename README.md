@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Musa
-I'm an aspiring Data Analyst with a passion of uncovering insights from data and turning them into actionable solutions.
+I'm an aspiring Data Scientist with a passion of uncovering insights from data and turning them into actionable solutions.
 
 ### 📚 Featured Projects
 - [Bike Sharing Usage Analysis](https://github.com/musabhrn/bike-sharing-usage-analysis.git) - Uncover trends and patterns in bike rental usage
