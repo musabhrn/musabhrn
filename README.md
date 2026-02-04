@@ -8,10 +8,9 @@ I'm an aspiring AI Engineer with a passion of uncovering insights from data and 
 
 ### 🛠️ Tools
 - **Programming Languages:** Python, SQL
-- **Data Analysis & Visualisation Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data & Feature Engineering:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning & AI:** scikit-learn, PyTorch
 - **Data Visualisation Tools:** Tableau, Power BI
-- **Development Environments:** Jupyter Notebook, Google Colab
-- **Productivity Tools:** Microsoft Excel, Google Sheets
 
 ### 🤝 Connect with Me
 - [Email](mailto:musaharon07@gmail.com)
