@@ -4,6 +4,7 @@ I'm an aspiring AI Engineer with a passion of uncovering insights from data and 
 ### 📚 Featured Projects
 - [Bike Sharing Usage Analysis](https://github.com/musabhrn/bike-sharing-usage-analysis.git) - Uncover trends and patterns in bike rental usage
 - [Online Electronics Retailer Analysis](https://github.com/musabhrn/online-electronics-retailer-analysis.git) - Analyse product performance and customer behavior in an Online Electronics Retailer
+- [HDB Resale Price Prediction](https://github.com/musabhrn/hdb-resale-price-prediction.git) - Predict accurate price estimates for HDB resale flats
 - **Check out more of my work on my [Portfolio](https://github.com/musabhrn/portfolio.git)**  
 
 ### 🛠️ Tools
